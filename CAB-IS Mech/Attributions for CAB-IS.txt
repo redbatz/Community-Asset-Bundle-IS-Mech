@@ -12,6 +12,7 @@ Stinger LAM
 Toro
 Titan II
 Wasp LAM
+Community Hunchback
 
 Lt. Shade
 License: 
@@ -84,6 +85,7 @@ Neanderthal
 Monster
 Rakshasa
 Phoenix Hawk LAM BattleMech
+Fafnir II
 
 Transient74
 License:
@@ -153,7 +155,7 @@ Urbanmech50
 Uziel
 Urbie
 UrbieLord
-Wolfhound
+Wolfhound 
 Hammertime Omni
 Longbow
 Zeus X
@@ -164,6 +166,15 @@ Creative Commons - Non-Commercial
 
 Models:
 Mongoose
+
+SouthernMountain
+License:
+Creative Commons - Attribution, Non-Commercial
+
+Models:
+Wasp Legacy
+Stinger Legacy
+Phoenix Hawk Legacy
 
 JuodasVarnas 
 License:
@@ -176,6 +187,7 @@ Enfield
 Mantis
 Brigand
 Thunder
+Helios
 
 SmallRobotsInAContainer/Napes
 License:
